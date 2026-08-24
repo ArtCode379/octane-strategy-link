@@ -1,0 +1,17 @@
+{
+  "phase": "scaffold_cloned",
+  "updated_at": "2026-08-24T07:41:19.667153+00:00",
+  "slug": "octane-strategy-link",
+  "type": "service",
+  "package": "octanecde.digitalization.octanestrategylink",
+  "prefix": "PPTKN",
+  "app_name": "Octane Strategy Link",
+  "task_gid": "1217153851816557",
+  "task_name": "GB GW4 C1269",
+  "asana_url": "https://app.asana.com/1/1208304498069546/project/1213586227413017/task/1217153851816557",
+  "domain": "https://octanecde.surf",
+  "company": "OCTANE CDE LIMITED",
+  "repo_url": "https://github.com/ArtCode379/octane-strategy-link",
+  "quality_status": "not_run",
+  "build_status": "not_run"
+}
